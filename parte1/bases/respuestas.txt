@@ -1,0 +1,11 @@
+1. Entre las diferencias fundamentales de las bases de datos SQL y NoSQL es que las primeras son llamadas relacionales mientras que las segundas son conocidas como bases de datos distribuidas. La escalabilidad es un factor que importante ya que las bases SQL solo pueden crecer verticalmente; es decir su puede agregar más RAM o CPU, pero existe un limite de tráfico al que puede responder. Mientras que las NoSQL pueden crecer horizontalmente, permitiendo que el tráfico al que se puede responder sea mayor. Las bases SQL tienen un lenguaje definido el cual nos permite realizar consultas muy especificas, mientras que las NoSQL al tener esquemas dinámicos no son tan buenas sus consultas. 
+
+2. Revisar el diagrama o el archivo SQL en esta carpeta. Se agrega un link con el diagrama original: https://dbdiagram.io/d/5d335d79ced98361d6dcd8af
+
+4. DDL es la sintaxis utilizada para la creación de estructuras de datos en las bases de datos. En SQL se utilizan CREATE, DROP y ALTER.
+
+5. DML es la sintaxis utilizada para la creación, modificación y eliminación de datos en una base de datos, tales como SELECT, INSERT, UPDATE, DELETE.
+
+6. Un ODM es un mapeador entre los objetos en el código y una base de datos de documentos, como lo es MongoDB. La diferencia con un ORM es que los ORM se encargan de hacer un mapeo entre objetos del código y una base de datos relacional.
+
+7. Las funciones de agregación nos permiten obtener datos númericos sobre un conjunto de resultados como medias, máximos, mínimos. Las agrupaciones nos permite agrupar filas dependiendo las columnas que se utilicen como parámetros.
