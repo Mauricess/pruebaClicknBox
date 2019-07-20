@@ -1,0 +1,17 @@
+Respuestas
+
+1. La verificación se encarga de revisar si el código se esta realizando conforme a la especificación inicial, mientras que la validación se ocupa de controlar si el producto satisface los requerimientos del cliente.
+
+2. 
+
+3. Una prueba funcional se encarga probar todo un sistema en un ambiente parecido al de producción con una carga similar a la esperada.
+
+4. Las pruebas unitarias se realizan sobre un nuevo elemento que se agregará al sistema, se enfoca en el correcto funcionamiento de éste. Las pruebas de integración se relizan cuando el elemento nuevo ya fue agregado al sistema, se busca que no tenga conflicto con los demás elementos del sistema.
+
+5.
+
+6. Las pruebas de benchmark son pruebas de rendimiento de un sistema o uno de sus componentes. Estas pruebas son ejecutadas en diferentes máquinas para comparar sus rendimientos. 
+
+7. git revert --no-commit <hash del commit a borrar>
+
+8. MVC me ayudo ya que realicé re ingeniería sobre un proyecto antiguo el cual no tenía un patron establecido. Al volver a crear el proyecto me fue más fácil cumplir los requerimientos establecidos.
